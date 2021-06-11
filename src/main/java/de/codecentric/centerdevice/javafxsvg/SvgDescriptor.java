@@ -2,6 +2,9 @@ package de.codecentric.centerdevice.javafxsvg;
 
 import com.sun.javafx.iio.common.ImageDescriptor;
 
+/**
+ * ImageFormat
+ */
 public class SvgDescriptor extends ImageDescriptor {
 
 	private static final String formatName = "SVG";
